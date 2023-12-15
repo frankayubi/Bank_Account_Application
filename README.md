@@ -50,11 +50,12 @@ To initialize accounts with specific data, create a CSV file named NewBankAccoun
 
 Example CSV format:
 
-```csv
-Name,SSN,AccountType,InitialDeposit
-Marybeth Sanders,431551383,Checking,2500
+    ```csv
+    Name,SSN,AccountType,InitialDeposit
+    Marybeth Sanders,431551383,Checking,2500
 
-## Contributing
+
+##Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions, issues, and feature requests are welcome!
 
