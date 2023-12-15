@@ -34,3 +34,33 @@ Before running the application, ensure you have the following:
    git clone https://github.com/your-username/Bank_Account_Application.git
    cd Bank_Account_Application
 
+# Bank Account Application
+
+## Compile and Run
+
+Compile and run the Java program.
+
+## Usage
+
+Upon running the application, follow the prompts to create and manage bank accounts. Use the provided CSV file for initializing account data.
+
+### CSV Data
+
+To initialize accounts with specific data, create a CSV file named NewBankAccounts.csv with the required information.
+
+Example CSV format:
+
+```csv
+Name,SSN,AccountType,InitialDeposit
+Marybeth Sanders,431551383,Checking,2500
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions, issues, and feature requests are welcome!
+
+## License
+
+This project is licensed under the MIT License.
+
+Feel free to use this Markdown template for your README.md file. If you have any specific changes or additional information you'd like to include, you can customize it accordingly.
+
